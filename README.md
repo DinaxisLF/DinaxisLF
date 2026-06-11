@@ -16,20 +16,24 @@ Detail-oriented Software Engineer and Cloud Application Developer with a strong 
 
 ---
 
-## 🚀 Experience
+## 🔭 Areas of Expertise & Interest
 
-### **IBM** | Cloud Application Developer
-*March 2026 - Present*
-- **AI Integration & RAG Architecture:** Designing RESTful APIs with FastAPI to integrate OpenAI/Claude models, and implementing RAG solutions via OpenSearch to optimize data retrieval.
-- **Cloud & Data Pipelines:** Managing Python ETL processes for AI-driven insights and deploying containerized microservices via AWS ECS for high availability.
+### 🤖 AI, Machine Learning & Data Systems
+Passionate about bridging the gap between raw data and intelligent systems. My work in this area focuses on:
+- **Generative AI & LLMs:** Building robust RESTful APIs with FastAPI to integrate models like OpenAI, Claude, and the Gemini API into automated workflows.
+- **RAG Architectures:** Designing Retrieval-Augmented Generation solutions using OpenSearch and embedding models to drastically optimize data retrieval and search response times.
+- **Data Engineering:** Managing ETL processes and pipelines with Python to process large datasets and extract actionable, AI-driven insights.
 
-### **IBM** | Application Developer Intern
-*September 2025 - March 2026*
-- Developed Python-based AWS Lambda functions to automate data processing and system workflows. Completed advanced training in Generative & Agentic AI and Cloud Foundations.
+### ☁️ Cloud Architecture & Backend Development
+Strong foundation in building scalable, resilient server-side applications and managing cloud-native infrastructure.
+- **AWS Ecosystem:** Automating system workflows and data processing with AWS Lambda, and deploying containerized microservices via ECS to ensure high availability.
+- **Backend Services:** Developing secure, high-performance APIs using Java, Spring Boot, Express.js, and Python. 
+- **DevOps & QA:** Maintaining code integrity through comprehensive unit testing, SonarQube, and CI/CD pipelines using GitHub Actions.
 
-### **Explora Space** | Frontend Web Developer
-*February 2025 - August 2025*
-- Developed and maintained responsive web applications using React.js, significantly improving user experience and reducing loading times across devices.
+### 🌐 Full-Stack & Frontend Engineering
+Crafting intuitive, responsive, and real-time user experiences across devices.
+- **Web & Mobile Ecosystems:** Building cross-platform solutions using React.js and React Native, prioritizing user experience and load-time optimization.
+- **Real-Time & Security:** Implementing WebSocket integrations for live data updates, alongside secure access control using JWT and OAuth/Google Auth mechanisms.
 
 ---
 
